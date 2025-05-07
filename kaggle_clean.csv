@@ -1,0 +1,421 @@
+year,canonicalcategory,category,film,filmid,winner
+2000,international feature film,foreign language film,amores perros,tt0245712,no
+2000,international feature film,foreign language film,"crouching tiger, hidden dragon",tt0190332,yes
+2000,international feature film,foreign language film,divided we fall,tt0234288,no
+2000,international feature film,foreign language film,everybody famous!,tt0209037,no
+2000,international feature film,foreign language film,the taste of others,tt0216787,no
+2000,best picture,best picture,chocolat,tt0241303,no
+2000,best picture,best picture,"crouching tiger, hidden dragon",tt0190332,no
+2000,best picture,best picture,erin brockovich,tt0195685,no
+2000,best picture,best picture,gladiator,tt0172495,yes
+2000,best picture,best picture,traffic,tt0181865,no
+2001,animated feature film,animated feature film,jimmy neutron: boy genius,tt0268397,no
+2001,animated feature film,animated feature film,"monsters, inc.",tt0198781,no
+2001,animated feature film,animated feature film,shrek,tt0126029,yes
+2001,international feature film,foreign language film,amélie,tt0211915,no
+2001,international feature film,foreign language film,elling,tt0279064,no
+2001,international feature film,foreign language film,lagaan,tt0169102,no
+2001,international feature film,foreign language film,no man's land,tt0283509,yes
+2001,international feature film,foreign language film,son of the bride,tt0292542,no
+2001,best picture,best picture,a beautiful mind,tt0268978,yes
+2001,best picture,best picture,gosford park,tt0280707,no
+2001,best picture,best picture,in the bedroom,tt0247425,no
+2001,best picture,best picture,the lord of the rings: the fellowship of the ring,tt0120737,no
+2001,best picture,best picture,moulin rouge,tt0203009,no
+2002,animated feature film,animated feature film,ice age,tt0268380,no
+2002,animated feature film,animated feature film,lilo & stitch,tt0275847,no
+2002,animated feature film,animated feature film,spirit: stallion of the cimarron,tt0166813,no
+2002,animated feature film,animated feature film,spirited away,tt0245429,yes
+2002,animated feature film,animated feature film,treasure planet,tt0133240,no
+2002,international feature film,foreign language film,el crimen del padre amaro,tt0313196,no
+2002,international feature film,foreign language film,hero,tt0299977,no
+2002,international feature film,foreign language film,the man without a past,tt0311519,no
+2002,international feature film,foreign language film,nowhere in africa,tt0161860,yes
+2002,international feature film,foreign language film,zus & zo,tt0245157,no
+2002,best picture,best picture,chicago,tt0299658,yes
+2002,best picture,best picture,gangs of new york,tt0217505,no
+2002,best picture,best picture,the hours,tt0274558,no
+2002,best picture,best picture,the lord of the rings: the two towers,tt0167261,no
+2002,best picture,best picture,the pianist,tt0253474,no
+2003,animated feature film,animated feature film,brother bear,tt0328880,no
+2003,animated feature film,animated feature film,finding nemo,tt0266543,yes
+2003,animated feature film,animated feature film,the triplets of belleville,tt0286244,no
+2003,international feature film,foreign language film,the barbarian invasions,tt0338135,yes
+2003,international feature film,foreign language film,evil,tt0338309,no
+2003,international feature film,foreign language film,the twilight samurai,tt0351817,no
+2003,international feature film,foreign language film,twin sisters,tt0322674,no
+2003,international feature film,foreign language film,zelary,tt0288330,no
+2003,best picture,best picture,the lord of the rings: the return of the king,tt0167260,yes
+2003,best picture,best picture,lost in translation,tt0335266,no
+2003,best picture,best picture,master and commander: the far side of the world,tt0311113,no
+2003,best picture,best picture,mystic river,tt0327056,no
+2003,best picture,best picture,seabiscuit,tt0329575,no
+2004,animated feature film,animated feature film,the incredibles,tt0317705,yes
+2004,animated feature film,animated feature film,shark tale,tt0307453,no
+2004,animated feature film,animated feature film,shrek 2,tt0298148,no
+2004,international feature film,foreign language film,as it is in heaven,tt0382330,no
+2004,international feature film,foreign language film,the chorus (les choristes),tt0372824,no
+2004,international feature film,foreign language film,downfall,tt0363163,no
+2004,international feature film,foreign language film,the sea inside,tt0369702,yes
+2004,international feature film,foreign language film,yesterday,tt0419279,no
+2004,best picture,best picture,the aviator,tt0338751,no
+2004,best picture,best picture,finding neverland,tt0308644,no
+2004,best picture,best picture,million dollar baby,tt0405159,yes
+2004,best picture,best picture,ray,tt0350258,no
+2004,best picture,best picture,sideways,tt0375063,no
+2005,animated feature film,animated feature film,howl's moving castle,tt0347149,no
+2005,animated feature film,animated feature film,tim burton's corpse bride,tt0121164,no
+2005,animated feature film,animated feature film,wallace & gromit in the curse of the were-rabbit,tt0312004,yes
+2005,international feature film,foreign language film,don't tell,tt0443446,no
+2005,international feature film,foreign language film,joyeux noël,tt0424205,no
+2005,international feature film,foreign language film,paradise now,tt0445620,no
+2005,international feature film,foreign language film,sophie scholl - the final days,tt0426578,no
+2005,international feature film,foreign language film,tsotsi,tt0468565,yes
+2005,best picture,best picture,brokeback mountain,tt0388795,no
+2005,best picture,best picture,capote,tt0379725,no
+2005,best picture,best picture,crash,tt0375679,yes
+2005,best picture,best picture,"good night, and good luck.",tt0433383,no
+2005,best picture,best picture,munich,tt0408306,no
+2006,animated feature film,animated feature film,cars,tt0317219,no
+2006,animated feature film,animated feature film,happy feet,tt0366548,yes
+2006,animated feature film,animated feature film,monster house,tt0385880,no
+2006,international feature film,foreign language film,after the wedding,tt0457655,no
+2006,international feature film,foreign language film,days of glory (indigènes),tt0444182,no
+2006,international feature film,foreign language film,the lives of others,tt0405094,yes
+2006,international feature film,foreign language film,pan's labyrinth,tt0457430,no
+2006,international feature film,foreign language film,water,tt0240200,no
+2006,best picture,best picture,babel,tt0449467,no
+2006,best picture,best picture,the departed,tt0407887,yes
+2006,best picture,best picture,letters from iwo jima,tt0498380,no
+2006,best picture,best picture,little miss sunshine,tt0449059,no
+2006,best picture,best picture,the queen,tt0436697,no
+2007,animated feature film,animated feature film,persepolis,tt0808417,no
+2007,animated feature film,animated feature film,ratatouille,tt0382932,yes
+2007,animated feature film,animated feature film,surf's up,tt0423294,no
+2007,international feature film,foreign language film,beaufort,tt0758732,no
+2007,international feature film,foreign language film,the counterfeiters,tt0813547,yes
+2007,international feature film,foreign language film,katyn,tt0879843,no
+2007,international feature film,foreign language film,mongol,tt0416044,no
+2007,international feature film,foreign language film,12,tt0488478,no
+2007,best picture,best picture,atonement,tt0783233,no
+2007,best picture,best picture,juno,tt0467406,no
+2007,best picture,best picture,michael clayton,tt0465538,no
+2007,best picture,best picture,no country for old men,tt0477348,yes
+2007,best picture,best picture,there will be blood,tt0469494,no
+2008,animated feature film,animated feature film,bolt,tt0397892,no
+2008,animated feature film,animated feature film,kung fu panda,tt0441773,no
+2008,animated feature film,animated feature film,wall-e,tt0910970,yes
+2008,international feature film,foreign language film,the baader meinhof complex,tt0765432,no
+2008,international feature film,foreign language film,the class,tt1068646,no
+2008,international feature film,foreign language film,departures,tt1069238,yes
+2008,international feature film,foreign language film,revanche,tt1173745,no
+2008,international feature film,foreign language film,waltz with bashir,tt1185616,no
+2008,best picture,best picture,the curious case of benjamin button,tt0421715,no
+2008,best picture,best picture,frost/nixon,tt0870111,no
+2008,best picture,best picture,milk,tt1013753,no
+2008,best picture,best picture,the reader,tt0976051,no
+2008,best picture,best picture,slumdog millionaire,tt1010048,yes
+2009,animated feature film,animated feature film,coraline,tt0327597,no
+2009,animated feature film,animated feature film,fantastic mr. fox,tt0432283,no
+2009,animated feature film,animated feature film,the princess and the frog,tt0780521,no
+2009,animated feature film,animated feature film,the secret of kells,tt0485601,no
+2009,animated feature film,animated feature film,up,tt1049413,yes
+2009,international feature film,foreign language film,ajami,tt1077262,no
+2009,international feature film,foreign language film,the milk of sorrow,tt1206488,no
+2009,international feature film,foreign language film,a prophet,tt1235166,no
+2009,international feature film,foreign language film,the secret in their eyes,tt1305806,yes
+2009,international feature film,foreign language film,the white ribbon,tt1149362,no
+2009,best picture,best picture,avatar,tt0499549,no
+2009,best picture,best picture,the blind side,tt0878804,no
+2009,best picture,best picture,district 9,tt1136608,no
+2009,best picture,best picture,an education,tt1174732,no
+2009,best picture,best picture,the hurt locker,tt0887912,yes
+2009,best picture,best picture,inglourious basterds,tt0361748,no
+2009,best picture,best picture,precious: based on the novel 'push' by sapphire,tt0929632,no
+2009,best picture,best picture,a serious man,tt1019452,no
+2009,best picture,best picture,up,tt1049413,no
+2009,best picture,best picture,up in the air,tt1193138,no
+2010,animated feature film,animated feature film,how to train your dragon,tt0892769,no
+2010,animated feature film,animated feature film,the illusionist,tt0775489,no
+2010,animated feature film,animated feature film,toy story 3,tt0435761,yes
+2010,international feature film,foreign language film,biutiful,tt1164999,no
+2010,international feature film,foreign language film,dogtooth,tt1379182,no
+2010,international feature film,foreign language film,in a better world,tt1340107,yes
+2010,international feature film,foreign language film,incendies,tt1255953,no
+2010,international feature film,foreign language film,outside the law (hors-la-loi),tt1229381,no
+2010,best picture,best picture,black swan,tt0947798,no
+2010,best picture,best picture,the fighter,tt0964517,no
+2010,best picture,best picture,inception,tt1375666,no
+2010,best picture,best picture,the kids are all right,tt0842926,no
+2010,best picture,best picture,the king's speech,tt1504320,yes
+2010,best picture,best picture,127 hours,tt1542344,no
+2010,best picture,best picture,the social network,tt1285016,no
+2010,best picture,best picture,toy story 3,tt0435761,no
+2010,best picture,best picture,true grit,tt1403865,no
+2010,best picture,best picture,winter's bone,tt1399683,no
+2011,animated feature film,animated feature film,a cat in paris,tt1673702,no
+2011,animated feature film,animated feature film,chico & rita,tt1235830,no
+2011,animated feature film,animated feature film,kung fu panda 2,tt1302011,no
+2011,animated feature film,animated feature film,puss in boots,tt0448694,no
+2011,animated feature film,animated feature film,rango,tt1192628,yes
+2011,international feature film,foreign language film,bullhead,tt1821593,no
+2011,international feature film,foreign language film,footnote,tt1445520,no
+2011,international feature film,foreign language film,in darkness,tt1417075,no
+2011,international feature film,foreign language film,monsieur lazhar,tt2011971,no
+2011,international feature film,foreign language film,a separation,tt1832382,yes
+2011,best picture,best picture,the artist,tt1655442,yes
+2011,best picture,best picture,the descendants,tt1033575,no
+2011,best picture,best picture,extremely loud & incredibly close,tt0477302,no
+2011,best picture,best picture,the help,tt1454029,no
+2011,best picture,best picture,hugo,tt0970179,no
+2011,best picture,best picture,midnight in paris,tt1605783,no
+2011,best picture,best picture,moneyball,tt1210166,no
+2011,best picture,best picture,the tree of life,tt0478304,no
+2011,best picture,best picture,war horse,tt1568911,no
+2012,animated feature film,animated feature film,brave,tt1217209,yes
+2012,animated feature film,animated feature film,frankenweenie,tt1142977,no
+2012,animated feature film,animated feature film,paranorman,tt1623288,no
+2012,animated feature film,animated feature film,the pirates! band of misfits,tt1430626,no
+2012,animated feature film,animated feature film,wreck-it ralph,tt1772341,no
+2012,international feature film,foreign language film,amour,tt1602620,yes
+2012,international feature film,foreign language film,kon-tiki,tt1613750,no
+2012,international feature film,foreign language film,no,tt2059255,no
+2012,international feature film,foreign language film,a royal affair,tt1276419,no
+2012,international feature film,foreign language film,war witch,tt1820488,no
+2012,best picture,best picture,amour,tt1602620,no
+2012,best picture,best picture,argo,tt1024648,yes
+2012,best picture,best picture,beasts of the southern wild,tt2125435,no
+2012,best picture,best picture,django unchained,tt1853728,no
+2012,best picture,best picture,les misérables,tt1707386,no
+2012,best picture,best picture,life of pi,tt0454876,no
+2012,best picture,best picture,lincoln,tt0443272,no
+2012,best picture,best picture,silver linings playbook,tt1045658,no
+2012,best picture,best picture,zero dark thirty,tt1790885,no
+2013,animated feature film,animated feature film,the croods,tt0481499,no
+2013,animated feature film,animated feature film,despicable me 2,tt1690953,no
+2013,animated feature film,animated feature film,ernest & celestine,tt1816518,no
+2013,animated feature film,animated feature film,frozen,tt2294629,yes
+2013,animated feature film,animated feature film,the wind rises,tt2013293,no
+2013,international feature film,foreign language film,the broken circle breakdown,tt2024519,no
+2013,international feature film,foreign language film,the great beauty,tt2358891,yes
+2013,international feature film,foreign language film,the hunt,tt2106476,no
+2013,international feature film,foreign language film,the missing picture,tt2852470,no
+2013,international feature film,foreign language film,omar,tt2852406,no
+2013,best picture,best picture,american hustle,tt1800241,no
+2013,best picture,best picture,captain phillips,tt1535109,no
+2013,best picture,best picture,dallas buyers club,tt0790636,no
+2013,best picture,best picture,gravity,tt1454468,no
+2013,best picture,best picture,her,tt1798709,no
+2013,best picture,best picture,nebraska,tt1821549,no
+2013,best picture,best picture,philomena,tt2431286,no
+2013,best picture,best picture,12 years a slave,tt2024544,yes
+2013,best picture,best picture,the wolf of wall street,tt0993846,no
+2014,animated feature film,animated feature film,big hero 6,tt2245084,yes
+2014,animated feature film,animated feature film,the boxtrolls,tt0787474,no
+2014,animated feature film,animated feature film,how to train your dragon 2,tt1646971,no
+2014,animated feature film,animated feature film,song of the sea,tt1865505,no
+2014,animated feature film,animated feature film,the tale of the princess kaguya,tt2576852,no
+2014,international feature film,foreign language film,ida,tt2718492,yes
+2014,international feature film,foreign language film,leviathan,tt2802154,no
+2014,international feature film,foreign language film,tangerines,tt2991224,no
+2014,international feature film,foreign language film,timbuktu,tt3409392,no
+2014,international feature film,foreign language film,wild tales,tt3011894,no
+2014,best picture,best picture,american sniper,tt2179136,no
+2014,best picture,best picture,birdman or (the unexpected virtue of ignorance),tt2562232,yes
+2014,best picture,best picture,boyhood,tt1065073,no
+2014,best picture,best picture,the grand budapest hotel,tt2278388,no
+2014,best picture,best picture,the imitation game,tt2084970,no
+2014,best picture,best picture,selma,tt1020072,no
+2014,best picture,best picture,the theory of everything,tt2980516,no
+2014,best picture,best picture,whiplash,tt2582802,no
+2015,animated feature film,animated feature film,anomalisa,tt2401878,no
+2015,animated feature film,animated feature film,boy and the world,tt3183630,no
+2015,animated feature film,animated feature film,inside out,tt2096673,yes
+2015,animated feature film,animated feature film,shaun the sheep movie,tt2872750,no
+2015,animated feature film,animated feature film,when marnie was there,tt3398268,no
+2015,international feature film,foreign language film,embrace of the serpent,tt4285496,no
+2015,international feature film,foreign language film,mustang,tt3966404,no
+2015,international feature film,foreign language film,son of saul,tt3808342,yes
+2015,international feature film,foreign language film,theeb,tt3170902,no
+2015,international feature film,foreign language film,a war,tt3830162,no
+2015,best picture,best picture,the big short,tt1596363,no
+2015,best picture,best picture,bridge of spies,tt3682448,no
+2015,best picture,best picture,brooklyn,tt2381111,no
+2015,best picture,best picture,mad max: fury road,tt1392190,no
+2015,best picture,best picture,the martian,tt3659388,no
+2015,best picture,best picture,the revenant,tt1663202,no
+2015,best picture,best picture,room,tt3170832,no
+2015,best picture,best picture,spotlight,tt1895587,yes
+2016,animated feature film,animated feature film,kubo and the two strings,tt4302938,no
+2016,animated feature film,animated feature film,moana,tt3521164,no
+2016,animated feature film,animated feature film,my life as a zucchini,tt2321405,no
+2016,animated feature film,animated feature film,the red turtle,tt3666024,no
+2016,animated feature film,animated feature film,zootopia,tt2948356,yes
+2016,international feature film,foreign language film,land of mine,tt3841424,no
+2016,international feature film,foreign language film,a man called ove,tt4080728,no
+2016,international feature film,foreign language film,the salesman,tt5186714,yes
+2016,international feature film,foreign language film,tanna,tt4239726,no
+2016,international feature film,foreign language film,toni erdmann,tt4048272,no
+2016,best picture,best picture,arrival,tt2543164,no
+2016,best picture,best picture,fences,tt2671706,no
+2016,best picture,best picture,hacksaw ridge,tt2119532,no
+2016,best picture,best picture,hell or high water,tt2582782,no
+2016,best picture,best picture,hidden figures,tt4846340,no
+2016,best picture,best picture,la la land,tt3783958,no
+2016,best picture,best picture,lion,tt3741834,no
+2016,best picture,best picture,manchester by the sea,tt4034228,no
+2016,best picture,best picture,moonlight,tt4975722,yes
+2017,animated feature film,animated feature film,the boss baby,tt3874544,no
+2017,animated feature film,animated feature film,the breadwinner,tt3901826,no
+2017,animated feature film,animated feature film,coco,tt2380307,yes
+2017,animated feature film,animated feature film,ferdinand,tt3411444,no
+2017,animated feature film,animated feature film,loving vincent,tt3262342,no
+2017,international feature film,foreign language film,a fantastic woman,tt5639354,yes
+2017,international feature film,foreign language film,the insult,tt7048622,no
+2017,international feature film,foreign language film,loveless,tt6304162,no
+2017,international feature film,foreign language film,on body and soul,tt5607714,no
+2017,international feature film,foreign language film,the square,tt4995790,no
+2017,best picture,best picture,call me by your name,tt5726616,no
+2017,best picture,best picture,darkest hour,tt4555426,no
+2017,best picture,best picture,dunkirk,tt5013056,no
+2017,best picture,best picture,get out,tt5052448,no
+2017,best picture,best picture,lady bird,tt4925292,no
+2017,best picture,best picture,phantom thread,tt5776858,no
+2017,best picture,best picture,the post,tt6294822,no
+2017,best picture,best picture,the shape of water,tt5580390,yes
+2017,best picture,best picture,"three billboards outside ebbing, missouri",tt5027774,no
+2018,animated feature film,animated feature film,incredibles 2,tt3606756,no
+2018,animated feature film,animated feature film,isle of dogs,tt5104604,no
+2018,animated feature film,animated feature film,mirai,tt6900448,no
+2018,animated feature film,animated feature film,ralph breaks the internet,tt5848272,no
+2018,animated feature film,animated feature film,spider-man: into the spider-verse,tt4633694,yes
+2018,international feature film,foreign language film,capernaum,tt8267604,no
+2018,international feature film,foreign language film,cold war,tt6543652,no
+2018,international feature film,foreign language film,never look away,tt5311542,no
+2018,international feature film,foreign language film,roma,tt6155172,yes
+2018,international feature film,foreign language film,shoplifters,tt8075192,no
+2018,best picture,best picture,black panther,tt1825683,no
+2018,best picture,best picture,blackkklansman,tt7349662,no
+2018,best picture,best picture,bohemian rhapsody,tt1727824,no
+2018,best picture,best picture,the favourite,tt5083738,no
+2018,best picture,best picture,green book,tt6966692,yes
+2018,best picture,best picture,roma,tt6155172,no
+2018,best picture,best picture,a star is born,tt1517451,no
+2018,best picture,best picture,vice,tt6266538,no
+2019,animated feature film,animated feature film,how to train your dragon: the hidden world,tt2386490,no
+2019,animated feature film,animated feature film,i lost my body,tt9806192,no
+2019,animated feature film,animated feature film,klaus,tt4729430,no
+2019,animated feature film,animated feature film,missing link,tt6348138,no
+2019,animated feature film,animated feature film,toy story 4,tt1979376,yes
+2019,international feature film,international feature film,corpus christi,tt8649186,no
+2019,international feature film,international feature film,honeyland,tt8991268,no
+2019,international feature film,international feature film,les misérables,tt10199590,no
+2019,international feature film,international feature film,pain and glory,tt8291806,no
+2019,international feature film,international feature film,parasite,tt6751668,yes
+2019,best picture,best picture,ford v ferrari,tt1950186,no
+2019,best picture,best picture,the irishman,tt1302006,no
+2019,best picture,best picture,jojo rabbit,tt2584384,no
+2019,best picture,best picture,joker,tt7286456,no
+2019,best picture,best picture,little women,tt3281548,no
+2019,best picture,best picture,marriage story,tt7653254,no
+2019,best picture,best picture,1917,tt8579674,no
+2019,best picture,best picture,once upon a time...in hollywood,tt7131622,no
+2019,best picture,best picture,parasite,tt6751668,yes
+2020,animated feature film,animated feature film,onward,tt7146812,no
+2020,animated feature film,animated feature film,over the moon,tt7488208,no
+2020,animated feature film,animated feature film,a shaun the sheep movie: farmageddon,tt6193408,no
+2020,animated feature film,animated feature film,soul,tt2948372,yes
+2020,animated feature film,animated feature film,wolfwalkers,tt5198068,no
+2020,international feature film,international feature film,another round,tt10288566,yes
+2020,international feature film,international feature film,better days,tt9586294,no
+2020,international feature film,international feature film,collective,tt10706602,no
+2020,international feature film,international feature film,the man who sold his skin,tt10360862,no
+2020,international feature film,international feature film,"quo vadis, aida?",tt8633462,no
+2020,best picture,best picture,the father,tt10272386,no
+2020,best picture,best picture,judas and the black messiah,tt9784798,no
+2020,best picture,best picture,mank,tt10618286,no
+2020,best picture,best picture,minari,tt10633456,no
+2020,best picture,best picture,nomadland,tt9770150,yes
+2020,best picture,best picture,promising young woman,tt9620292,no
+2020,best picture,best picture,sound of metal,tt5363618,no
+2020,best picture,best picture,the trial of the chicago 7,tt1070874,no
+2021,animated feature film,animated feature film,encanto,tt2953050,yes
+2021,animated feature film,animated feature film,flee,tt8430054,no
+2021,animated feature film,animated feature film,luca,tt12801262,no
+2021,animated feature film,animated feature film,the mitchells vs. the machines,tt7979580,no
+2021,animated feature film,animated feature film,raya and the last dragon,tt5109280,no
+2021,international feature film,international feature film,drive my car,tt14039582,yes
+2021,international feature film,international feature film,flee,tt8430054,no
+2021,international feature film,international feature film,the hand of god,tt12680684,no
+2021,international feature film,international feature film,lunana: a yak in the classroom,tt10189300,no
+2021,international feature film,international feature film,the worst person in the world,tt10370710,no
+2021,best picture,best picture,belfast,tt12789558,no
+2021,best picture,best picture,coda,tt10366460,yes
+2021,best picture,best picture,don't look up,tt11286314,no
+2021,best picture,best picture,drive my car,tt14039582,no
+2021,best picture,best picture,dune,tt1160419,no
+2021,best picture,best picture,king richard,tt9620288,no
+2021,best picture,best picture,licorice pizza,tt11271038,no
+2021,best picture,best picture,nightmare alley,tt7740496,no
+2021,best picture,best picture,the power of the dog,tt10293406,no
+2021,best picture,best picture,west side story,tt3581652,no
+2022,animated feature film,animated feature film,guillermo del toro's pinocchio,tt1488589,yes
+2022,animated feature film,animated feature film,marcel the shell with shoes on,tt15339456,no
+2022,animated feature film,animated feature film,puss in boots: the last wish,tt3915174,no
+2022,animated feature film,animated feature film,the sea beast,tt9288046,no
+2022,animated feature film,animated feature film,turning red,tt8097030,no
+2022,international feature film,international feature film,all quiet on the western front,tt1016150,yes
+2022,international feature film,international feature film,"argentina, 1985",tt15301048,no
+2022,international feature film,international feature film,close,tt9660502,no
+2022,international feature film,international feature film,eo,tt19652910,no
+2022,international feature film,international feature film,the quiet girl,tt15109082,no
+2022,best picture,best picture,all quiet on the western front,tt1016150,no
+2022,best picture,best picture,avatar: the way of water,tt1630029,no
+2022,best picture,best picture,the banshees of inisherin,tt11813216,no
+2022,best picture,best picture,elvis,tt3704428,no
+2022,best picture,best picture,everything everywhere all at once,tt6710474,yes
+2022,best picture,best picture,the fabelmans,tt14208870,no
+2022,best picture,best picture,tár,tt14444726,no
+2022,best picture,best picture,top gun: maverick,tt1745960,no
+2022,best picture,best picture,triangle of sadness,tt7322224,no
+2022,best picture,best picture,women talking,tt13669038,no
+2023,animated feature film,animated feature film,the boy and the heron,tt6587046,yes
+2023,animated feature film,animated feature film,elemental,tt15789038,no
+2023,animated feature film,animated feature film,nimona,tt19500164,no
+2023,animated feature film,animated feature film,robot dreams,tt13429870,no
+2023,animated feature film,animated feature film,spider-man: across the spider-verse,tt9362722,no
+2023,international feature film,international feature film,io capitano,tt14225838,no
+2023,international feature film,international feature film,perfect days,tt27503384,no
+2023,international feature film,international feature film,society of the snow,tt16277242,no
+2023,international feature film,international feature film,the teachers' lounge,tt26612950,no
+2023,international feature film,international feature film,the zone of interest,tt7160372,yes
+2023,best picture,best picture,american fiction,tt23561236,no
+2023,best picture,best picture,anatomy of a fall,tt17009710,no
+2023,best picture,best picture,barbie,tt1517268,no
+2023,best picture,best picture,the holdovers,tt14849194,no
+2023,best picture,best picture,killers of the flower moon,tt5537002,no
+2023,best picture,best picture,maestro,tt5535276,no
+2023,best picture,best picture,oppenheimer,tt15398776,yes
+2023,best picture,best picture,past lives,tt13238346,no
+2023,best picture,best picture,poor things,tt14230458,no
+2023,best picture,best picture,the zone of interest,tt7160372,no
+2024,animated feature film,animated feature film,flow,tt4772188,yes
+2024,animated feature film,animated feature film,inside out 2,tt22022452,no
+2024,animated feature film,animated feature film,memoir of a snail,tt23770030,no
+2024,animated feature film,animated feature film,wallace & gromit: vengeance most fowl,tt17163970,no
+2024,animated feature film,animated feature film,the wild robot,tt29623480,no
+2024,international feature film,international feature film,emilia pérez,tt20221436,no
+2024,international feature film,international feature film,flow,tt4772188,no
+2024,international feature film,international feature film,the girl with the needle,tt10236164,no
+2024,international feature film,international feature film,i'm still here,tt14961016,yes
+2024,international feature film,international feature film,the seed of the sacred fig,tt32178949,no
+2024,best picture,best picture,anora,tt28607951,yes
+2024,best picture,best picture,the brutalist,tt8999762,no
+2024,best picture,best picture,a complete unknown,tt11563598,no
+2024,best picture,best picture,conclave,tt20215234,no
+2024,best picture,best picture,dune: part two,tt15239678,no
+2024,best picture,best picture,emilia pérez,tt20221436,no
+2024,best picture,best picture,i'm still here,tt14961016,no
+2024,best picture,best picture,nickel boys,tt23055660,no
+2024,best picture,best picture,the substance,tt17526714,no
+2024,best picture,best picture,wicked,tt1262426,no
