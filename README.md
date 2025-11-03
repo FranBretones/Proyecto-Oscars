@@ -1,4 +1,4 @@
-# Project Oscar Insight  
+# Project Correlation Analysis Between Public Reception and Oscar Success
 **Do public ratings and profits influence the Academy's decisions?**
 
 ## 🎯 Objective
